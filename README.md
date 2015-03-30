@@ -1,7 +1,7 @@
 # shallowFoamTutorials
 Tutorials for shallow water solver shallowFoam
 
-Contains two tutorial case:
+Contains two tutorial cases:
 
   - pflegerTests are a number of 1D-validation cases, that can be compared with analytical solutions
   - dornbirnerAche is a real flooding scenario of the river Dornbirner Ache in Vorarlberg, Austria
