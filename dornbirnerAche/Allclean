@@ -1,0 +1,5 @@
+#!/bin/sh
+
+rm -r processor*
+rm -r [1-9]*
+rm log.*
